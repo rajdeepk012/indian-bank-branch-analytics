@@ -294,9 +294,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-**Rajdeep Singh**
+**Rajdeep Kuntal**
 
-Project Link: [https://github.com/YOUR_USERNAME/indian-bank-branch-analytics](https://github.com/YOUR_USERNAME/indian-bank-branch-analytics)
+Project Link: [https://github.com/rajdeepk012/indian-bank-branch-analytics](https://github.com/YOUR_USERNAME/indian-bank-branch-analytics)
 
 ---
 
