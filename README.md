@@ -103,7 +103,7 @@ pip
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/indian-bank-branch-analytics.git
+   git clone https://github.com/rajdeepk012/indian-bank-branch-analytics.git
    cd indian-bank-branch-analytics
    ```
 
